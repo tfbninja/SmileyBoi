@@ -8,10 +8,10 @@ import javafx.scene.canvas.Canvas;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-//Name -
-//Date -
-//Class -
-//Lab  -
+/*
+ *
+ * @author Tim Barber
+*/
 
 
 public class SmileyFaceRunner extends Application{
